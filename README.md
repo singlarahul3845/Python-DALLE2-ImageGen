@@ -61,9 +61,12 @@ If you'd like to contribute to Python-DALLE2-ImageGen, please follow these guide
 
 Here is the sample output of the Dalle-2-Image-Generator
 
-images\Screenshot (260).png
-![Index.html screenshot]("images/Screenshot (260).png" "Dalle-2-Image_generator Screenshot")
-![Result.html screenshot]("images/Screenshot 2024-04-19 232827.png" "Dalle-2-Image_generator Screenshot")
+![Screenshot (260)](https://github.com/singlarahul3845/Python-DALLE2-ImageGen/assets/124781877/f7583035-03c4-4018-9f5a-104d8a44dc96)
+
+
+![Screenshot 2024-04-19 232827](https://github.com/singlarahul3845/Python-DALLE2-ImageGen/assets/124781877/175c1dd8-2110-4804-b521-299aecab987c)
+
+
 
 
 
